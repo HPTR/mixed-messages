@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Info](#info)
-* [Try it yourself!](#try-it-yourself!)
+* [Try it yourself!](#try-it-yourself)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Author](#author)
