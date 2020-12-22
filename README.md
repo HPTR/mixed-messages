@@ -31,8 +31,8 @@ Very little setup required:
 ***
 ## Screenshots
 Below are some screenshots of the HTML page, and some example reviews.
-![Screenshot 1](./img/screenshot1.png)
-![Screenshot 2](./img/screenshot2.png)
+![Screenshot 1](mixed-messages/img/screenshot1.png)
+![Screenshot 2](mixed-messages/img/screenshot2.png)
 ***
 ## Technologies
 
