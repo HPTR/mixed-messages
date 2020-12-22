@@ -6,7 +6,7 @@
 * [Try it yourself!](#try-it-yourself!)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* 
+* [Author]()
 ***
 ## Info
 This is a small project completed for the Codecademy Full Stack career path course. The brief states that the project must output a random message on a topic of your choosing using at least 3 pieces of data.
